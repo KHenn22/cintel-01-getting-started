@@ -1,7 +1,7 @@
 // .vscode/settings.json
 {
   "editor.formatOnSave": false,
-  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+  "python.defaultInterpreterPath": "C:\\Repos\\cintel-01-getting-started\\.venv\\Scripts\\python.exe",
   "python.terminal.activateEnvironment": true,
   "python.analysis.typeCheckingMode": "basic",
   "python.analysis.diagnosticSeverityOverrides": {
