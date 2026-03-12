@@ -66,6 +66,8 @@ And a new file named `project.log` will appear in the project folder.
 Once you see it, you're 90% of the way there.
 After that, you'll just make the project yours and get started exploring.
 
+Created pipeline_hennelly.py from a copy of pipeline_case.py.  I added a validation check to ensure the docs folder exists at runtime.  If the docs folder does not exist or is incorrectly named, a clear warning is logged.
+
 ## Command Reference
 
 The commands below are used in the workflow guide above.
